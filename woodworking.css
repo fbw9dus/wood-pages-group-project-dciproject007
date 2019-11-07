@@ -1,0 +1,42 @@
+body{
+    background-color:grey;
+} 
+
+.softwoods{
+border-radius: 2px 44px 33px;
+border: 5px solid black;
+}
+
+.hardwoods{
+    border-radius: 2px 44px 33px;
+    border: 5px solid black;
+}
+
+ .contwoods{
+    display: flex;
+    margin-bottom: 107px;
+} 
+.text1{
+    border: 5px solid black;
+    border-radius: 2px 44px 33px;
+    background-color: white;
+
+}
+.text2{
+    border: 5px solid blueviolet;
+    border-radius: 33px 44px 3px;
+    background-color: white;
+
+}
+.text3{
+    
+    border: 5px solid black;
+    border-radius: 2px 44px 33px;
+background-color: white;
+}
+.text4{
+    border: 5px solid blueviolet;
+    border-radius: 33px 44px 3px;
+    background-color: white;
+
+}
